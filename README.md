@@ -1,4 +1,4 @@
-# Balmorel
+# Anja's Balmorel
 
 Check out [the documentation](https://balmorelcommunity.github.io/Balmorel/index.html) for tutorials on getting started with the Balmorel energy system model. 
 
